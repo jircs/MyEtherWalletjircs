@@ -64,7 +64,7 @@
     "@sentry/tracing": "7.73.0",
     "@sentry/vue": "7.73.0",
     "@shapeshiftoss/hdwallet-core": "1.22.0",
-    "@shapeshiftoss/hdwallet-keepkey-webusb": "1.22.0",
+    "@shapeshiftoss/hdwallet-keepkey-webusb": "1.56.0",
     "@trezor/connect-web": "9.1.4",
     "@unstoppabledomains/resolution": "9.0.0",
     "@walletconnect/ethereum-provider": "2.10.1",
